@@ -20,3 +20,11 @@ To use this project, simply download or clone the repository:
 ```bash
 git clone https://github.com/logusivam/Drawing-web-app.git
 ```
+
+# Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
