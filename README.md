@@ -8,8 +8,10 @@ This project demonstrates how to create a drawing web app using HTML, CSS, and J
 
 You can see a live demo of the project [click here](https://logusivam.github.io/Drawing-web-app/).
 
-
+## YOUTUBE CHANNEL
 ![LOGUSIVAM](https://github.com/logusivam/Drawing-web-app/assets/106108501/a8a57621-d8aa-4472-81a0-3e522f80a620)
+
+MY DETAILED EXPLANATION OF THIS CODE IS IN MY CHANNEL DON'T FORGET CHECK IT OUT.
 
 [CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
 
